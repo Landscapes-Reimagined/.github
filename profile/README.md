@@ -86,7 +86,7 @@ Stay up to date with our releases, sneak peeks, and community spotlights:
 
 - 💬 [Discord Community](https://discord.gg/quenZthXgy) – Live support and project discussions
 - 🧭 [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/create-forge-frontier) – Download and follow our featured modpack
-- 🎧 [SSZNBEATS on Spotify](https://open.spotify.com/artist/6DhgAOljnUjeXJdkTqlz0J) – Experience the official soundtrack
+- 🎧 [SSZNBEATS on Spotify](https://open.spotify.com/search/SSZNBEATS) – Experience the official soundtrack
 
 Let’s reimagine Minecraft—together.
 
