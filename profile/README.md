@@ -69,4 +69,4 @@ For updates, feedback, and previews of our upcoming work, be sure to follow:
 Let’s reimagine Minecraft—together.
 
 > *“Where code meets creativity today, and landscapes are reimagined tomorrow.”*  
-> — The Landscapes Reimagined Team
+> - The Landscapes Reimagined Team
