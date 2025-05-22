@@ -23,13 +23,12 @@ Our Fabric-based, terrain-focused survival modpack that celebrates world generat
 
 ## 👥 Meet the Team
 
-- **M0nkeyPr0grammer** – *Lead Developer & Project Manager*  
-- **CtrlAltDyleted** – *Quest Architect*  
-- **Gamma_02** – *Feature Engineer & Compatibility Specialist*  
-- **SSZNBEATS (Juno)** – *Soundtrack Producer*  
-- **Erion** – *Wiki Specialist*  
-- …and more talented collaborators who help bring our ideas to life.
-
+- **M0nkeyPr0grammer** – *Lead Developer & Project Manager*
+- **Gamma_02** – *Feature Engineer & Compatibility Specialist*    
+- **CtrlAltDyleted** – *Quest Architect*
+- **Thunderkeeper** – *Wiki Specialist*    
+- **SSZNBEATS (Juno)** – *Soundtrack Producer*
+  
 ---
 
 ## 🌐 Wiki & Documentation
