@@ -90,5 +90,5 @@ Stay up to date with our releases, sneak peeks, and community spotlights:
 
 Let’s reimagine Minecraft—together.
 
-> *“Where code meets creativity today, and landscapes are reimagined tomorrow.”*  
+> *“Engineering Tomorrow’s Worlds, One Creative Block at a Time.”*  
 > – The Landscapes Reimagined Team
