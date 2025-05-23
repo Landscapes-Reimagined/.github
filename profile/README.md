@@ -15,7 +15,7 @@ Welcome to the official GitHub organization for the **Landscapes Reimagined Deve
 
 We lead the development of genre-defining modpacks and companion mods that elevate the Minecraft experience with seamless cross-mod integrations, custom scripting, and player-driven innovation.
 
-### <img src="https://media.forgecdn.net/avatars/1186/266/638760292700710009.png" alt="FF Logo" width="24"/> [Create - Forge Frontier](https://www.curseforge.com/minecraft/modpacks/create-forge-frontier)  
+### <img src="https://media.forgecdn.net/avatars/1186/266/638760292700710009.png" alt="FF Logo" width="24"/> [Create - Forge Frontier](https://www.curseforge.com/minecraft/modpacks/forge-frontier)  
 An engineering-focused Forge modpack centered around the power of the Create mod. Featuring deep automation systems, multi-dimensional exploration, a hand-crafted quest progression, and dozens of curated mod integrations — *Forge Frontier* redefines what it means to play with Create.
 
 ### <img src="https://media.forgecdn.net/avatars/1157/652/638725737310519772.png" alt="FF Core Logo" width="24"/> [Forge Frontier Core](https://www.curseforge.com/minecraft/mc-mods/forge-frontier-core)  
