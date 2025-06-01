@@ -23,6 +23,9 @@ Our custom support mod for the *Create - Forge Frontier* experience. Forge Front
 ### <img src="https://media.forgecdn.net/avatars/1285/596/638836094521413585.png" alt="DnD Compat Logo" width="24"/> [Create: Dreams n' Desires to Create 6](https://www.curseforge.com/minecraft/mc-mods/create-dreams-n-desires-updated-to-create-6)  
 A compatibility bridge that allows **Create 6.0.4** to integrate seamlessly with **Create: Dreams n' Desires v0.2c-PREBETA**. Built specifically for *Forge Frontier*, this module provides essential fixes and extended functionality for dream-powered creativity.
 
+### <img src="https://media.forgecdn.net/avatars/1297/821/638843578349352798.png" alt="BS Compat Logo" width="24"/> [Create: Bigger Storage Updated to Create 6](https://www.curseforge.com/minecraft/mc-mods/create-bigger-storage-updated-to-create-6)
+A compatibility bridge that allows **Create 6.0.4** to integrate seamlessly with **Create: Bigger Storage v0.1b.Release**. Built specifically for *Forge Frontier*, this module provides essential fixes and extended functionality for dream-powered creativity.
+
 ### <img src="https://cdn.modrinth.com/data/MdznSbKA/5b106d3f8e7f42ab1613e1b6f08da918d2c6eb90_96.webp" alt="Genesis Logo" width="24"/> [Landscapes Reimagined: Genesis](https://modrinth.com/modpack/landscapes-reimagined-genesis)  
 A survival-focused, terrain-enhancement modpack built for Fabric. Genesis showcases stunning world generation using Terralith, improved biome mechanics, and a grounded progression system, offering a peaceful yet dynamic Minecraft journey — all anchored in creative utility mods like Create.
 
