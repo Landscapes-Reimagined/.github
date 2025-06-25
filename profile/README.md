@@ -31,7 +31,7 @@ A compatibility bridge that allows **Create 6.0.4** to integrate seamlessly with
 A compatibility bridge that allows **Create 6.0.4** to integrate seamlessly with **Create: Bigger Storage v0.1b.Release**. Built specifically for *Forge Frontier*, this module provides essential fixes and extended functionality for dream-powered creativity.
 
 #### <img src="https://media.forgecdn.net/avatars/1317/419/638856530183321290.png" alt="Resource Vents Logo" width="24"/> [Create: Resource Vents](https://www.curseforge.com/minecraft/mc-mods/create-resource-vents)
-Reworking of Create: Molten Vents to be lean and modern
+Create: Resource Vents introduces a dynamic and immersive method for generating rare resources using Create's automation systems. By tapping into natural vent structures, players can extract specialized materials through fluid interactions and mechanical processing—offering an endgame-worthy alternative to traditional mining.
 
 ---
 
