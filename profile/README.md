@@ -13,21 +13,25 @@ Welcome to the official GitHub organization for the **Landscapes Reimagined Deve
 ## 🛠️ Our Projects
 
 We lead the development of genre-defining modpacks and companion mods that elevate the Minecraft experience with seamless cross-mod integrations, custom scripting, and player-driven innovation.
-
-### <img src="https://media.forgecdn.net/avatars/1186/266/638760292700710009.png" alt="FF Logo" width="24"/> [Create - Forge Frontier](https://www.curseforge.com/minecraft/modpacks/forge-frontier)  
+## <u>Modpacks</u>
+#### <img src="https://media.forgecdn.net/avatars/1186/266/638760292700710009.png" alt="FF Logo" width="24"/> [Create - Forge Frontier](https://www.curseforge.com/minecraft/modpacks/forge-frontier)  
 An engineering-focused Forge modpack centered around the power of the Create mod. Featuring deep automation systems, multi-dimensional exploration, a hand-crafted quest progression, and dozens of curated mod integrations — *Forge Frontier* redefines what it means to play with Create.
 
-### <img src="https://media.forgecdn.net/avatars/1157/652/638725737310519772.png" alt="FF Core Logo" width="24"/> [Forge Frontier Core](https://www.curseforge.com/minecraft/mc-mods/forge-frontier-core)  
+#### <img src="https://cdn.modrinth.com/data/MdznSbKA/5b106d3f8e7f42ab1613e1b6f08da918d2c6eb90_96.webp" alt="Genesis Logo" width="24"/> [Landscapes Reimagined: Genesis](https://modrinth.com/modpack/landscapes-reimagined-genesis)  
+A survival-focused, terrain-enhancement modpack built for Fabric. Genesis showcases stunning world generation using Terralith, improved biome mechanics, and a grounded progression system, offering a peaceful yet dynamic Minecraft journey — all anchored in creative utility mods like Create.
+
+## <u>Mods</u>
+#### <img src="https://media.forgecdn.net/avatars/1157/652/638725737310519772.png" alt="FF Core Logo" width="24"/> [Forge Frontier Core](https://www.curseforge.com/minecraft/mc-mods/forge-frontier-core)  
 Our custom support mod for the *Create - Forge Frontier* experience. Forge Frontier Core powers unique fluids, custom blocks, visuals, and backend systems that enable seamless scripting and compatibility, while preserving a performant and immersive gameplay experience.
 
-### <img src="https://media.forgecdn.net/avatars/1285/596/638836094521413585.png" alt="DnD Compat Logo" width="24"/> [Create: Dreams n' Desires to Create 6](https://www.curseforge.com/minecraft/mc-mods/create-dreams-n-desires-updated-to-create-6)  
+#### <img src="https://media.forgecdn.net/avatars/1285/596/638836094521413585.png" alt="DnD Compat Logo" width="24"/> [Create: Dreams n' Desires to Create 6](https://www.curseforge.com/minecraft/mc-mods/create-dreams-n-desires-updated-to-create-6)  
 A compatibility bridge that allows **Create 6.0.4** to integrate seamlessly with **Create: Dreams n' Desires v0.2c-PREBETA**. Built specifically for *Forge Frontier*, this module provides essential fixes and extended functionality for dream-powered creativity.
 
-### <img src="https://media.forgecdn.net/avatars/1297/821/638843578349352798.png" alt="BS Compat Logo" width="24"/> [Create: Bigger Storage Updated to Create 6](https://www.curseforge.com/minecraft/mc-mods/create-bigger-storage-updated-to-create-6)
+#### <img src="https://media.forgecdn.net/avatars/1297/821/638843578349352798.png" alt="BS Compat Logo" width="24"/> [Create: Bigger Storage Updated to Create 6](https://www.curseforge.com/minecraft/mc-mods/create-bigger-storage-updated-to-create-6)
 A compatibility bridge that allows **Create 6.0.4** to integrate seamlessly with **Create: Bigger Storage v0.1b.Release**. Built specifically for *Forge Frontier*, this module provides essential fixes and extended functionality for dream-powered creativity.
 
-### <img src="https://cdn.modrinth.com/data/MdznSbKA/5b106d3f8e7f42ab1613e1b6f08da918d2c6eb90_96.webp" alt="Genesis Logo" width="24"/> [Landscapes Reimagined: Genesis](https://modrinth.com/modpack/landscapes-reimagined-genesis)  
-A survival-focused, terrain-enhancement modpack built for Fabric. Genesis showcases stunning world generation using Terralith, improved biome mechanics, and a grounded progression system, offering a peaceful yet dynamic Minecraft journey — all anchored in creative utility mods like Create.
+#### <img src="https://media.forgecdn.net/avatars/1317/419/638856530183321290.png" alt="Resource Vents Logo" width="24"/> [Create: Resource Vents](https://www.curseforge.com/minecraft/mc-mods/create-resource-vents)
+Reworking of Create: Molten Vents to be lean and modern
 
 ---
 
