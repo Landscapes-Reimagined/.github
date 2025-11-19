@@ -9,6 +9,10 @@
 Welcome to the official GitHub organization for the **Landscapes Reimagined Development Team** — a collective of passionate developers, artists, sound designers, and technical experts dedicated to transforming the Minecraft modding scene. We specialize in building immersive, Create-powered experiences that emphasize progression, performance, storytelling, and visual beauty.
 
 ---
+## ⚠️ Issues and Suggestions
+
+Have any issues or suggestions you'd like to report visit our centralized area to do so: [Landscapes Reimagined - Issues and Suggestions](https://github.com/Landscapes-Reimagined/Issues-and-Suggestions)
+---
 
 ## 🛠️ Our Projects
 
