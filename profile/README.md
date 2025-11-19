@@ -11,7 +11,7 @@ Welcome to the official GitHub organization for the **Landscapes Reimagined Deve
 ---
 ## ⚠️ Issues and Suggestions
 
-Have any issues or suggestions you'd like to report visit our centralized area to do so: [Landscapes Reimagined - Issues and Suggestions](https://github.com/Landscapes-Reimagined/Issues-and-Suggestions)
+#### Have any issues or suggestions you'd like to report visit our centralized area to do so: [Issues and Suggestions](https://github.com/Landscapes-Reimagined/Issues-and-Suggestions)
 ---
 
 ## 🛠️ Our Projects
